@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Engineering Student<br>Backend Developer<br>Currently learning Unity
+🎓 Software Engineering Student<br>💻 Backend Developer<br>🌱 Currently learning Unity<br>📫 Email:dangvinhcv2004@gmail.com
 
 
 ## 🌐 Socials:
